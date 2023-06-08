@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\krok9\Downloads\Project-1\Project-1\MyForm.h(378,33): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Source.cpp
+C:\Users\krok9\Downloads\Project-1\Project-1\MyForm.h(378,33): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project-1.vcxproj -> C:\Users\krok9\Downloads\Project-1\x64\Debug\Project-1.exe
