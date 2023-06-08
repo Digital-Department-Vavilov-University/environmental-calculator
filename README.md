@@ -6,8 +6,8 @@
 - ![Результат](https://sun9-14.userapi.com/impg/kcgzFeKOgwquXRhrmJaBFlBfVHJJvYAC2z6TSQ/7MBiN8xVhR0.jpg?size=589x365&quality=96&sign=7f86bae43f8f59df2e61a3c3f8d1f5f6&type=album)
 
 ## Стек технологий
--C++
--WinForm
--.Net Framework
--CLI
--Экология (Предельно допустимые концентрации)
+- C++
+- WinForm
+- .Net Framework
+- CLI
+- Экология (Предельно допустимые концентрации)
